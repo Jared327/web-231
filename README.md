@@ -1,2 +1,4 @@
-# web-231
-Repository for web-231 Enterprise JavaScript 1
+# WEB 231 Enterprise JavaScript 1
+## Contributors
+* Richard Krasso
+* Jared Dwyer
