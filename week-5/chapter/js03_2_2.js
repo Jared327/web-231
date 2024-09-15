@@ -7,7 +7,7 @@
      Author: Jared Dwyer
      Date: 09/06/24
 
-     Filename: js03_2.js
+     Filename: js03_2_2.js
  */
 
   // Days of the week
